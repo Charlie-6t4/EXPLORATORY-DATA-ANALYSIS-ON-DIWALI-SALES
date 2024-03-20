@@ -1,6 +1,9 @@
 # EXPLORATORY-DATA-ANALYSIS-ON-DIWALI-SALES
 This project focuses on performing exploratory data analysis (EDA) on Diwali sales data to gain insights into sales trends, customer behavior, and popular products during the festive season. Diwali, also known as the festival of lights, is one of the biggest festivals in India and is associated with increased shopping and sales across various categories.
 
+https://www.kaggle.com/datasets/saadharoon27/diwali-sales-dataset
+
+
 # **Dataset**
 The dataset used for this project contains information about Diwali sales, including sales figures, product categories, customer demographics, and sales channels.
 
